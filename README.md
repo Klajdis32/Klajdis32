@@ -8,7 +8,7 @@ I live in 📍🇬🇷<br>
 <p><strong>My skills:</strong></p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,react,html,css,php" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,javascript,php,,c,python" />
   </a>
 </p>
 <nr>
