@@ -6,7 +6,7 @@
 - 📫 This is my email address in case you want to contact with me: ktsami@auth.gr
 <br>
 <p>My skills:</p>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,react,html,css,php" />
   </a>
