@@ -5,13 +5,16 @@ I live in 📍🇬🇷<br>
 💞️ I'm open to collaborate on programing projects.<br>
 📫 This is my email address in case you want to contact with me: ktsami@auth.gr<br>
 <br>
-<p>My skills:</p>
+<p><strong>My skills:</strong></p>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,react,html,css,php" />
   </a>
 </p>
-<!---
-Klajdis32/Klajdis32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<nr>
+<p><strong>Social:</strong></p></nr>
+<p align="left">
+  <a href="[https://skillicons.dev](https://www.linkedin.com/in/klajdi-cami-90a59b284/)">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
