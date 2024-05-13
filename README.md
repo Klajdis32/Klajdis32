@@ -14,7 +14,7 @@ I live in 📍🇬🇷<br>
 <nr>
 <p><strong>Social:</strong></p></nr>
 <p align="left">
-  <a href="[https://skillicons.dev](https://www.linkedin.com/in/klajdi-cami-90a59b284/)">
+  <a href="https://www.linkedin.com/in/klajdi-cami-90a59b284">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
