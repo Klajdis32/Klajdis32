@@ -2,7 +2,7 @@
 I live in 📍🇬🇷<br>
 <p>
 🎓 Physicist at the Aristotle University of Thessaloniki (Auth)<br>
-👀 I’m interested in physics and programming.<br>
+👀 I’m interested in physics and computer programming.<br>
 🌱 I’m currently learning java and c.<br>
 💞️ I'm open to collaborate on programing projects.<br>
 📫 This is my email address in case you want to contact with me: <a href="mailto:ktsami@auth.gr">ktsami@auth.gr</a><br>
