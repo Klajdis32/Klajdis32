@@ -11,7 +11,7 @@ I live in 📍🇬🇷<br>
 <br>
 <p><strong>My skills:</strong></p>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=react,html,css,javascript,php,,mysql,mongodb,,c,python" />
   </a>
 </p>
