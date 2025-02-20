@@ -1,7 +1,7 @@
 <h2>👋 Hi, I’m @Klajdi</h2>
 I live in 📍🇬🇷<br>
 <p>
-🎓 I’m a Physicist at the Aristotle University of Thessaloniki (Auth)<br>
+🎓 I’m a Physics student at the Aristotle University of Thessaloniki (Auth)<br>
 👀 I’m interested in physics and computer programming.<br>
 🌱 I’m currently learning JavaScript and Python.<br>
 💞️ I'm open to collaborate on programing projects.<br>
