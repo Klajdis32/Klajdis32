@@ -6,7 +6,7 @@ I live in 📍🇬🇷<br>
 🌱 I’m currently learning JavaScript and Python.<br>
 💞️ I'm open to collaborate on programing projects.<br>
 📫 This is my email address in case you want to contact with me: <a href="mailto:ktsami@auth.gr">ktsami@auth.gr</a><br>
-🌐 My Personal Website: https://tsamiklainti.com/
+🌐 My Personal Website: https://klainti.gr/
 </p>
 <br>
 <p><strong>My skills:</strong></p>
